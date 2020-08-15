@@ -8,7 +8,7 @@
 ## Use o comando:
 
 ```
-git clone blablabla
+git clone https://github.com/kalecio/employees-management.git
 ```
 
 # Como subir o backend?
